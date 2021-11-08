@@ -40,13 +40,6 @@ label {
   font-weight: bold;
 }
 
-.red {
-  position: absolute;
-  color: red;
-  bottom: -3em;
-  right: 0;
-}
-
 .div__button {
   position: relative;
 }
